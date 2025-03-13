@@ -1,16 +1,2 @@
-	 Almendros Navas, José Gonzalo	
-	 Aybar Soto, Daniel	
-	 Buzón Campaña, Mª Ángeles	
-	 Calderer Ortiz, Juan	
-	 Corral Romero, Rubén	
-	 Cosano García, Fernando:"De día desarrollador, de noche urbano"	
-	 Delgado Calvo, Desirée	
-	 Fernández Trespando, Víctor	
-	 Jiménez Urbano, Daniel	
-	 Justicia Vico, José	
-	 López Díaz, Hugo	
-	 López Novoa, Nicolás Esteban	
-	 Monge Serrano, Alejandro	
-	 Terreu Marín, David	
-	 Torres Arroyo, Marta	
-	 Troya Salguero, Raúl
+Cosano García, Fernando:"De día desarrollador, de noche urbano"	
+	
